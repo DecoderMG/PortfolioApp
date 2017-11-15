@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dakota M. Gallimore</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="brief_bio_description">Software Engineer. Android Developer. \n Avid Coffee Drinker. Love Learning. Global Entrepreneur. Content Creator. Hiker. Taco Destroyer.</string>
+    <string name="about_me">I\'m Dakota Gallimore, a super passionate Software Engineer and go getter. I bring a unique blend of business and Software Engineering to software development. Having a vast background allows me to tackle every aspect of the software development life-cycle, from client relationship to coding. I absolutely love it. \n \nI\'m never content with my current knowledge and also work to stay up on industry trends as well as push my skills to the limit.\n \nIf you want a highly dedicated Android Software Engineer I\'m your man.</string>
+    <string name="personality">Passionate programmer that loves coffee. I\'m considered outgoing by my peers with a good sense of humor. I\'m considered highly creative and not afraid to brainstorm and implement ideas. \n\nI\'m a detailed oriented person who not only looks at the grand scale but the micro scale as well. I always favor OOD principles as they allow for tight details management within a vast software system. \n\nI\'m always in search of expanding my knowledge and prefer to take on rolls that have never been done before as the challenge excites me.</string>
+    <string name="mission">My mission is simple, to join revolutionary teams in creating revolutionary software.</string>
+    <string name="story">When i went to college in 2009 I didn\'t know what I wanted to do, other than programming. About two years into college I found my passion, mobile programming. \n\nAt the time, our teachers had the students creating DOS programs, I wanted to create something someone would use, then I found Android. From there I took it upon myself to learn Android and created tons of apps to help me with them. I loved it. \n\nThen as I was prepping to launch my first app (an emotional roller coaster for sure) I had something hit me. If every app developer contributed a dollar to charity we could solve world hunger, which lead me to pursue Dreams.Build a Rewards-based crowdfunding platform focused around giving back. \n\nAt the start of 2017 I launched in 23 countries, helping companies define their technology offerings, putting my Software Engineering and client relationship skills to the test. As 2017 comes to a close, I\'m looking to go back to my roots and help pioneer innovative mobile apps and software solutions.</string>
+
+    <string name="spinner_prompt">About me, but you can explore more</string>
+
+    <string name="hello_blank_fragment">Huh.. I missed a fragment, please try restarting the app.</string>
+</resources>

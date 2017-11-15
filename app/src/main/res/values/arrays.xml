@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="testimony_mipmaps">
+        <item>@mipmap/judy</item>
+        <item>@mipmap/tommy</item>
+        <item>@mipmap/dom</item>
+    </integer-array>
+
+    <string-array name="testimony_strings">
+        <item>Dakota\'s depth of character is one of his most distinguishing feature&#8230; He is extremely bright, well educated and dedicated to his career. Dakota will not disappoint!</item>
+        <item>We created an interactive language translation app for Glass, and Dakota was the founding engineer. I was very impressed with his passion for technology&#8230; it was clear that he had the talent and compassion to build great products and build great teams.</item>
+        <item>Dakota walked the talk. He listened, he acted upon suggestions, he took the time to explain technical (and sometimes not so technical) gubbins that were beyond us&#8230;Dakota gets Nine out of Nine Dragons from us.</item>
+    </string-array>
+
+    <string-array name="testimony_names">
+        <item>Judy Simpson Former CEO of Precision Staffing</item>
+        <item>Tommy Melh REDI Global Tech.</item>
+        <item>Dom Perry CEO of Nine Dragons Publications</item>
+    </string-array>
+
+    <string-array name="profile_sections">
+        <item>About Me</item>
+        <item>Personality</item>
+        <item>Mission</item>
+        <item>Story</item>
+    </string-array>
+
+    <string-array name="education_parent_sections">
+        <item>What I bring</item>
+        <item>Education</item>
+        <item>Experience</item>
+        <item>Skills</item>
+    </string-array>
+
+    <integer-array name="education_parent_icons">
+        <item>@mipmap/what_i_bring</item>
+        <item>@mipmap/education</item>
+        <item>@mipmap/experience</item>
+        <item>@mipmap/skills</item>
+    </integer-array>
+
+    <integer-array name="portfolio_images">
+        <item>@mipmap/amp</item>
+        <item>@mipmap/dreams_build</item>
+        <item>@mipmap/dreams_university</item>
+        <item>@mipmap/google_glass</item>
+        <item>@mipmap/kalman</item>
+        <item>@mipmap/protofy</item>
+        <item>@mipmap/search_engine</item>
+    </integer-array>
+
+    <string-array name="portfolio_titles">
+        <item>A.M.P</item>
+        <item>Dreams.Build</item>
+        <item>Dreams.University</item>
+        <item>Visual Language Learning</item>
+        <item>Python Kalman Filter</item>
+        <item>Protofy</item>
+        <item>Python Web Crawler</item>
+    </string-array>
+
+    <string-array name="portfolio_subtitles">
+        <item>R&amp;D Activity-based music player</item>
+        <item>Rewards-based International Crowdfunding Platform</item>
+        <item>Crowdfunding E-Learning Platform</item>
+        <item>Google Glass</item>
+        <item>Python</item>
+        <item>WYSIWYG Editor for Android</item>
+        <item>Python</item>
+    </string-array>
+
+    <string-array name="portfolio_details">
+        <item>Another early on Android app that helped me understand how to interact with Android sensors, runtime efficiency and the activity lifecycle. The app allows users to train an activity and then play music specific to that activity. The app can then switch activities/music on the fly.</item>
+        <item>Rewards-based crowdfunding platform servicing projects in 23 countries, allowing creators to host digital files, use Two-Stage funding, and monthly charity donations. The platform is built on Wordpress.</item>
+        <item>Concept to realization of an E-Learning platform for crowdfunders that would later be paired with the Dreams.Build platform to create a seamless education to funding service. (Built on Wordpress.)</item>
+        <item>App uses the now discontinued Glass platform to allow a user to learn a foreign language by taking pictures. Using the Alchemy API, users receive contextual text to match a picture they just took. Then the app will translate the text into another language in real-time.</item>
+        <item>Kalman Filters are excellent for running predictability models. Using this Kalman filter you can predict where an object is going to be given the velocity stays constant.</item>
+        <item>I created protofy to understand the Android UI. Protofy is also one of my first android apps. Developers can use Protofy to quickly create draft layout xml for their apps completely offline.</item>
+        <item>Just a one file python 3 based web crawler. It's a bit impolite and could use some manners.</item>
+    </string-array>
+
+    <string-array name="portfolio_links">
+        <item>https://github.com/DecoderMG/A.M.P</item>
+        <item>https://dreams.build</item>
+        <item>https://dreams.university</item>
+        <item>https://github.com/DecoderMG/E-Glass-Learning</item>
+        <item>https://gist.github.com/DecoderMG/aebe956ba688ac9452cc34b08d06e1d3</item>
+        <item>https://github.com/DecoderMG/Protofy</item>
+        <item>https://github.com/DecoderMG/Web-Crawler</item>
+    </string-array>
+
+
+</resources>
