@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 26
@@ -36,4 +37,8 @@ dependencies {
     implementation 'com.getbase:floatingactionbutton:1.10.1'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.2.0'
     testImplementation 'junit:junit:4.12'
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}
+repositories {
+    mavenCentral()
 }
