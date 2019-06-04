@@ -28,8 +28,8 @@ class AboutMeFragment : Fragment() {
         val mSpinner = rootView.findViewById<Spinner>(R.id.spinner_about_me)
         val mTextView = rootView.findViewById<TextView>(R.id.textView_about_me)
         mSpinner.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
-            override fun onItemSelected(adapterView: AdapterView<*>, view: View, i: Int, l: Long) {
-                when (i) {
+            override fun onItemSelected(adapterView: AdapterView<*>, view: View?, index: Int, l: Long) {
+                when (index) {
                     ABOUT_ME -> mTextView.text = mResources!!.getString(R.string.about_me)
                     PERSONALITY -> mTextView.text = mResources!!.getString(R.string.personality)
                     MISSION -> mTextView.text = mResources!!.getString(R.string.mission)
